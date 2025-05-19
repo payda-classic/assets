@@ -1,0 +1,28 @@
+{
+  "name": "PAYDA CLASSIC",
+  "type": "BEP20",
+  "symbol": "PDC",
+  "decimals": 18,
+  "description": "Payda Classic platform based on the BSC network provides practical value to both small business owners and consumers with low fees and real-time settlement.",
+  "website": "https://paydaclassic.com",
+  "explorer": "https://bscscan.com/token/0xdaac932d8a85ed4c005ca0c2ffd7ec070979e3e1",
+  "status": "active",
+  "id": "0xdaac932d8a85ed4c005ca0c2ffd7ec070979e3e1",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/payda-classic/payda-classic-token-list/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/paydaclassic"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PaydaClassic_Official" 
+    }
+  ],
+  "tags": [
+    "defi"
+  ]
+}
